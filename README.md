@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting projects!
 - 📫 How to reach me poojassharma02@gmail.com
 
-I am also Actively looking for a job. My Specality includes Web Development.
+I am also Actively looking for a job.
 
 <!---
 poojassharma/poojassharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
