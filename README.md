@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poojassharma
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning Angularjs
+- 🌱 I’m currently learning python and cloud computing
 - 💞️ I’m looking to collaborate on interesting projects!
 - 📫 How to reach me poojassharma02@gmail.com
 
